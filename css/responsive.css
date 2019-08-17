@@ -1,0 +1,124 @@
+*{
+	margin:0;
+	padding:0;
+}
+@media (max-width: 768px){
+	
+	.header {
+    width: 100%;
+	}
+	
+	nav.menu{
+		width: 100%;
+	}
+	
+	nav.menu ul li{
+		float: none;
+		list-style: none;
+	}
+	
+	nav.menu ul li a:hover{
+		background-color: tomato;
+	}
+	div.area-title{
+		width: 100%;
+	}
+	
+	div.logo{
+		width: 100%;
+	}
+	
+	div.welcome {
+		width: 100%;
+	}
+	
+	div.welcome-content {
+		width: 100%;
+	}
+	
+	div.about {
+		width: 100%;
+	}
+	
+	div.about-inner {
+		width: 100%;
+	}
+	div.about-left {
+		width: 100%;
+	}
+	
+	div.about-right {
+		width: 100%;
+	}
+	
+	div.ar-inner {
+		width: 100%;
+	}
+	
+	div.academic {
+		width: 100%;
+	}
+	
+	div.academic-inner {
+		width: 100%;
+	}
+	
+	div.cocurricular {
+		width: 100%;
+	}
+	
+	div.cocurricular-left {
+		width: 100%;
+	}
+	
+	div.cocurricular-right {
+		width: 100%;
+	}
+	
+	div.ccr-inner {
+		width: 100%;
+	}
+	
+	div.alumni {
+		width: 100%;
+	}
+	
+	div.alumni-left {
+		width: 100%;
+	}
+	
+	div.alumni-right {
+		width: 100%;
+	}
+	
+	div.contact {
+		width: 100%;
+	}
+	div.contact-right {
+		width: 100%;
+	}
+	
+	div.google-map{
+		width: 100%;
+	}
+	
+	div.form{
+		width: 100%;
+	}
+	
+	div.copyright{
+		width: 100%
+	}
+	.footer{
+		width: 100%
+	}
+	.footer-inner{
+		width: 100%
+	}
+	
+	.footer-content{
+		width: 100%
+	}
+	
+}
+
